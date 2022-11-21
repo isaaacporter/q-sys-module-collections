@@ -1,0 +1,7 @@
+{
+    "version": "1.0.0",
+    "type": "LuaModule",
+    "author": "Isaac Porter",
+    "description": "This module contains complex data collections such as Queue, Stack, and Dictionary.",
+    "requiredVersion" : "9.5"
+}
